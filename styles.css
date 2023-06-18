@@ -271,7 +271,6 @@ body {
     color: var(--secondary-text-color);
 }
 
-
 .skills-container {
     display: flex;
     flex-wrap: wrap;
@@ -305,3 +304,4 @@ body {
     color: #333;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
   }
+
